@@ -21,6 +21,7 @@ Traditional web tools often process your sensitive data (JSON configs, API keys,
 
 - [ToolArks Image Compressor](https://toolarks.com/en/image-compressor) - High-performance WASM-based compression.
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams with end-to-end encryption.
+- [Metadata Remover](https://metadataremover.ai/) - Inspect and remove image metadata locally in the browser.
 - [Squoosh](https://squoosh.app/) - Google Chrome Labs' image optimizer that runs locally.
 
 ## 🔐 Security & Privacy
