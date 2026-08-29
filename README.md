@@ -16,6 +16,7 @@ Traditional web tools often process your sensitive data (JSON configs, API keys,
 - [CyberChef](https://gchq.github.io/CyberChef/) - The "Cyber Swiss Army Knife" for encryption, encoding, and data analysis.
 - [ToolArks Base64 Converter](https://toolarks.com/en/base64-converter) - Securely encode/decode strings and files.
 - [ToolArks Hash Generator](https://toolarks.com/en/hash-generator) - Generate MD5, SHA-256, etc., without server-side processing.
+- [Toolbox](https://accessibleittools.com/) - Free browser-based PDF, image and developer tools; files are processed locally with no upload flow or account.
 
 ## 🖼 Image & Design
 
