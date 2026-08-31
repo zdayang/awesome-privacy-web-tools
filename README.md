@@ -22,6 +22,7 @@ Traditional web tools often process your sensitive data (JSON configs, API keys,
 - [ToolArks Image Compressor](https://toolarks.com/en/image-compressor) - High-performance WASM-based compression.
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams with end-to-end encryption.
 - [Squoosh](https://squoosh.app/) - Google Chrome Labs' image optimizer that runs locally.
+- [Asset Melt](https://assetmelt.com) - Free browser-based image compressor/converter with batch processing, size budgets, and AVIF/WebP/JXL/MozJPEG/Oxipng WASM codecs. Images never leave the device.
 
 ## 🔐 Security & Privacy
 
