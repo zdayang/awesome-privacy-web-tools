@@ -22,6 +22,7 @@ Traditional web tools often process your sensitive data (JSON configs, API keys,
 - [ToolArks Image Compressor](https://toolarks.com/en/image-compressor) - High-performance WASM-based compression.
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams with end-to-end encryption.
 - [Squoosh](https://squoosh.app/) - Google Chrome Labs' image optimizer that runs locally.
+- [File Converter](https://fileontap.com/) - Free browser-local HEIC/WebP/PNG/JPG conversion, compression, and image↔PDF; files stay on the device with no upload or account.
 
 ## 🔐 Security & Privacy
 
