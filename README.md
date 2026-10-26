@@ -32,6 +32,7 @@ Traditional web tools often process your sensitive data (JSON configs, API keys,
 
 - [ToolArks Word Counter](https://toolarks.com/en/word-counter) - Privacy-safe text analysis.
 - [ToolArks Diff Checker](https://toolarks.com/en/diff-checker) - Compare files locally.
+- [fancy-text-generator.app](https://fancy-text-generator.app) - Converts text into Unicode font styles entirely in the browser.
 
 ---
 
