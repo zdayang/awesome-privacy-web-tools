@@ -19,6 +19,7 @@ Traditional web tools often process your sensitive data (JSON configs, API keys,
 
 ## 🖼 Image & Design
 
+- [ImgFlow](https://imgflow.taoliapp.com/en/) - Free WASM image compressor/converter (HEIC, WebP, AVIF, target-size). 100% browser-based.
 - [ToolArks Image Compressor](https://toolarks.com/en/image-compressor) - High-performance WASM-based compression.
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams with end-to-end encryption.
 - [Squoosh](https://squoosh.app/) - Google Chrome Labs' image optimizer that runs locally.
