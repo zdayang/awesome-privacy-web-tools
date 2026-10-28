@@ -22,6 +22,7 @@ Traditional web tools often process your sensitive data (JSON configs, API keys,
 - [ToolArks Image Compressor](https://toolarks.com/en/image-compressor) - High-performance WASM-based compression.
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams with end-to-end encryption.
 - [Squoosh](https://squoosh.app/) - Google Chrome Labs' image optimizer that runs locally.
+- [Reduce Image Size in KB](https://imagesizeinkb.com/) - Compress or resize a photo or signature to a target KB range and pixel/cm size in the browser, without uploading.
 
 ## 🔐 Security & Privacy
 
