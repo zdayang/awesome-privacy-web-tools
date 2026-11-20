@@ -12,6 +12,7 @@ Traditional web tools often process your sensitive data (JSON configs, API keys,
 
 ## 🛠 Developer Utilities
 
+- [BestJSON](https://bestjson.com/json-repair) - Preview repairs to malformed JSON locally in a browser Web Worker without uploading the input.
 - [ToolArks JSON Formatter](https://toolarks.com/en/json-formatter) - Instant JSON prettifying and validation locally.
 - [CyberChef](https://gchq.github.io/CyberChef/) - The "Cyber Swiss Army Knife" for encryption, encoding, and data analysis.
 - [ToolArks Base64 Converter](https://toolarks.com/en/base64-converter) - Securely encode/decode strings and files.
